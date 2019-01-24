@@ -19,7 +19,7 @@ function sayHiToGrandma(string) {
     return "I can\'t hear you!"
 
   }
-  if(strcpy === 'HELLO') {
+  if(string === 'HELLO') {
     return "YES INDEED!"
   }
   
