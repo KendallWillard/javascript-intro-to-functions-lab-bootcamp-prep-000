@@ -16,6 +16,7 @@ function logWhisper(string) {
 
 function sayHiToGrandaa(string) {
   var strcpy = string.toUpperCase();
+  console.log(strcpy);
   if(strcpy === string) {
     return "YES INDEED"
   }
